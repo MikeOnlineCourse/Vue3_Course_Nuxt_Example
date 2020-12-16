@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.12.2",
+    "axios": "^0.21.0",
     "core-js": "^3.6.5",
     "js-cookie": "^2.2.1",
     "nuxt": "^2.14.6"
